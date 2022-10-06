@@ -1,0 +1,25 @@
+.background{
+    background-color: white;
+;
+    background-size: fill;
+    font-family: monospace;
+}
+
+.banner{
+    height: 700px;
+}
+
+.warning{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-color: black;
+    opacity: 0.95;
+    z-index: 5;
+
+}
+
+#socials{
+    margin-left: 30%;
+    margin-top: 50px;
+}
